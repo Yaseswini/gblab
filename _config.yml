@@ -1,0 +1,21 @@
+# basic options
+title: GBLab
+#author: Yaseswini
+#email: yaseswini.1404@gmail.com
+#description: blah
+#twitter_username: dont know
+#github_username:  Yaseswini
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+- Gemfile
+- Gemfile.lock
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+ - CONTACT.html
+ - Team.html
+#baseurl: /GBLab
